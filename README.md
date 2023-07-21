@@ -1,14 +1,14 @@
 # Workshops Enrollment System
 
-> *A Group Project of Computational Thinking and Problem Solving (COMP1002) - Project Group 2 at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), made by [ZHANG Wengyu](https://github.com/zhangwengyu999), [CHEN Derun](https://github.com/ShanpooO) and [YE Haowen](https://github.com/ShanYu0205), 2021-12-01*
+> *A Group Project of Computational Thinking and Problem Solving (COMP1002) - Project Group 2 at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), made by [CHEN Derun](https://github.com/ShanpooO), [YE Haowen](https://github.com/ShanYu0205) and [ZHANG Wengyu](https://github.com/zhangwengyu999) 2021-12-01*
 
 ## Group Members
-
-**ZHANG Wengyu [(https://github.com/zhangwengyu999)](https://github.com/zhangwengyu999)**
 
 **CHEN Derun [(https://github.com/ShanpooO)](https://github.com/ShanpooO)**
 
 **YE Haowen [(https://github.com/ShanYu0205)](https://github.com/ShanYu0205)**
+
+**ZHANG Wengyu [(https://github.com/zhangwengyu999)](https://github.com/zhangwengyu999)**
 
 ## Project Report
 
@@ -44,4 +44,4 @@
 
 ---
 
-Copyright © [ZHANG Wengyu](https://github.com/zhangwengyu999), [CHEN Derun](https://github.com/ShanpooO), [YE Haowen](https://github.com/ShanYu0205). All rights reserved.
+Copyright © [CHEN Derun](https://github.com/ShanpooO), [YE Haowen](https://github.com/ShanYu0205), [ZHANG Wengyu](https://github.com/zhangwengyu999). All rights reserved.
